@@ -1,11 +1,12 @@
 ---
 maintainer: randomsort
 ---
+
 # Git Katas
 
 ## Quick Start
 
-### In the Cloud
+### In the Cloud (Hello)
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/praqma-training/git-katas.git)
 
@@ -121,5 +122,6 @@ git lol     # Does a "git log --graph --pretty=oneline --abbrev-commit --all"
 There is a very small test that you can run in powershell or bash.
 It is contained in the scripts `test.sh` and `test.ps1`.
 
-## Other Resources 
+## Other Resources
+
 [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
